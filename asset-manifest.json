@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09c5263e.css",
+    "main.js": "/static/js/main.367107c2.js",
+    "static/js/787.b701888c.chunk.js": "/static/js/787.b701888c.chunk.js",
+    "static/media/cashback-bg-1.png": "/static/media/cashback-bg-1.940d192ccc2dd54555ef.png",
+    "static/media/cashback-bg-3.png": "/static/media/cashback-bg-3.940d192ccc2dd54555ef.png",
+    "static/media/cashback-bg-2.png": "/static/media/cashback-bg-2.9002ad42fc65dda6f08a.png",
+    "static/media/cashback-bg-4.png": "/static/media/cashback-bg-4.9002ad42fc65dda6f08a.png",
+    "static/media/nav-pizza.svg": "/static/media/nav-pizza.cb06518345f8aac5b966c310bfa2884d.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.09c5263e.css.map": "/static/css/main.09c5263e.css.map",
+    "main.367107c2.js.map": "/static/js/main.367107c2.js.map",
+    "787.b701888c.chunk.js.map": "/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09c5263e.css",
+    "static/js/main.367107c2.js"
+  ]
+}
